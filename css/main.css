@@ -14,3 +14,7 @@
 .controls_faderr:hover {
     animation: 1s ease 0s normal forwards 1 controls_faderr_fadein;
 }
+
+body {
+    overflow: hidden;
+}
